@@ -1,4 +1,7 @@
 <script>
+ // game globals
+ import { setContext } from 'svelte'
+
 	export let name;
 </script>
 
